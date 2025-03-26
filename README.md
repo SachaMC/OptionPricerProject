@@ -10,6 +10,6 @@
 
 ### Avantages :
 
-- Ce pricer prend en compte le versement des dividendes discret
+- Ce pricer prend en compte le versement des dividendes discrets
 - Un exemple concret d'utilisation se trouve à la fin du fichier Visualisation.ipynb
 

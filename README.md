@@ -11,5 +11,5 @@
 ### Avantages :
 
 - Ce pricer prend en compte le versement des dividendes discret
-- Un exemple concret d'utilisatoin se trouve à la fin du fichier Option Pricer.py
+- Un exemple concret d'utilisation se trouve à la fin du fichier Option Pricer.ipynb
 
